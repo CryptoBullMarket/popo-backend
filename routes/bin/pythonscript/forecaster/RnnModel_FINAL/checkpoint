@@ -1,0 +1,2 @@
+model_checkpoint_path: "/Users/pshyam/Documents/CryptoCompare/RnnModel_FINAL/stock_rnn_lstm128_step1_input9.model-10000"
+all_model_checkpoint_paths: "/Users/pshyam/Documents/CryptoCompare/RnnModel_FINAL/stock_rnn_lstm128_step1_input9.model-10000"
